@@ -12,3 +12,8 @@ Issue Number - 1 and its detail is  --> Added navar to all the webpages
 
 Branch Naming will be ---> 1-navbar-all 
 ```
+
+And try using `CMD` and NOT `Powershell`
+
+
+If you find difficulty contact @skyline-r34v
